@@ -1,5 +1,4 @@
-**My productivity stack**
-
+**My productivity stack**  
 [openSUSE Tumbleweed](https://github.com/openSUSE) |
 [neovim](https://github.com/neovim) |
 [bash](https://www.gnu.org/software/bash/) |
@@ -8,10 +7,8 @@
 [nnn](https://github.com/jarun/nnn) |
 [copilot](https://github.com/features/copilot)
 
-**I am currently learning**
-
+**I am currently learning**  
 [Rust](https://github.com/rust-lang)
 
-**Things I intend to learn**
-
+**Things I intend to learn**  
 [Integrated circuit design](https://en.wikipedia.org/wiki/Integrated_circuit_design)
