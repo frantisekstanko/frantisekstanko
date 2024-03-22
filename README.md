@@ -4,6 +4,7 @@ Experienced with test-driven and domain-driven development, MVC, hexagonal archi
 [openSUSE Tumbleweed](https://github.com/openSUSE) |
 [neovim](https://github.com/neovim) |
 [bash](https://www.gnu.org/software/bash/) |
+[lazygit](https://github.com/jesseduffield/lazygit) |
 [tmux](https://github.com/tmux/tmux) |
 [i3wm](https://github.com/i3/i3) |
 [nnn](https://github.com/jarun/nnn) |
