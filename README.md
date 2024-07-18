@@ -14,5 +14,5 @@ ___
 [copilot](https://github.com/features/copilot)
 ___
 **Certifications**
-- [C1 Advanced](https://www.cambridgeenglish.org/exams-and-tests/advanced/) (Cambridge)
+- [C2 Proficiency](https://www.cambridgeenglish.org/exams-and-tests/proficiency/) (Cambridge)
 - [Professional Scrum Developer™](https://www.scrum.org/assessments/professional-scrum-developer-certification) (Scrum.org)
