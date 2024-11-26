@@ -1,6 +1,6 @@
 Experienced with test-driven, event-driven, domain-driven development, MVC,
 hexagonal architecture, and agile methodologies. I code in Rust for personal
-projects and use PHP and JavaScript in my professional work. I am proficient
+projects and use PHP and TypeScript in my professional work. I am proficient
 with most Linux distributions and enjoy bash scripting.
 ___
 **My productivity stack**  
